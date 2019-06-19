@@ -1,5 +1,5 @@
-token=BotToken
-owner=Ur Id
-prefix=UrPrefix
+token=NTkwOTE2ODUyNDgyNTcyMzQ5.XQpMQA.kPMBSju3AiUiQBcSbxIx5W8sAq4
+owner=569841293837074432
+prefix=..
 stayinchannel=true
 songinstatus=true
