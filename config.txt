@@ -1,0 +1,5 @@
+token=BotToken
+owner=Ur Id
+prefix=UrPrefix
+stayinchannel=true
+songinstatus=true
